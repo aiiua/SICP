@@ -8,4 +8,5 @@
         * [1.1.2 命名和环境](docs/chapter1/elements/naming.md)
         * [1.1.3 组合式的求值](docs/chapter1/elements/evaluating.md)
         * [1.1.4 复合过程](docs/chapter1/elements/compound.md)
+        * [1.1.5 过程应用的代换模型](docs/chapter1/elements/application.md)
 
