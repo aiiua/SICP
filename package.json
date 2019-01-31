@@ -1,6 +1,6 @@
 {
   "name": "sicp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "计算机程序构造和解释",
   "main": "index.js",
   "scripts": {
